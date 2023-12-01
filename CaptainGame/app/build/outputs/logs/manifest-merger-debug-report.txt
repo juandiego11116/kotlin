@@ -1,0 +1,319 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/87adc37d0e5aae857f30c59ee1998f6b/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/3ae5b70c70f3415980c86cb41840030b/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/6d393060e190051a7a1f55ceec8d6311/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/bfb4402bf17bd0e4925ec2ff70d405f5/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/1c4d565ee8a4cb8074a11f1b5e046754/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/e833352a3886744c54b682bb2ac22a94/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/7b3fcf7a63f3bb2cc9e9e8fe9c227876/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/593debcae87c2c4910e3efa5ee0d4a85/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/5993791e2fc99033b9c6773e306dbdc0/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/32934c2aa185de2b17b0d246c37312b3/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/c45ccb56e91f5d1a0d136134630b6e52/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/2fdf8eaeaf872dd28f18b61efb56e600/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/c9f8104e2ebbb7c740121f1c5dc86fd2/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/10ecf4bc388f9125c6f472cf1e4fac00/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/a973062dbd7fccd98587b7874bb87f12/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/146d9dea652271789a9a772ff8d474bb/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/cbfa8ea53a5621c3e83a2eeea29a5623/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/542d61afdbd289dc27fed11108f990ed/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/85662acb1b2fb33d808f6e120ae7a7f4/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/63618925b3f7a1604e4f135f2d416212/transformed/activity-compose-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/02a073ac7d3f7fc23d613b262cffa77a/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/c38203fbe0b852a8a84f005c5fb686f2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/1c5a0af74cc2545b0078c4f19f7aaf2b/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/efb0722d18fdfb8c8b04d6d20200aabb/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/leidyluna/.gradle/caches/transforms-3/ac47818248ba95eae888f24ff11f863d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leidyluna/.gradle/caches/transforms-3/68f0c4edefd181cebf50010530391aa7/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/989eb8fb42518fbc048898a6111d4ee0/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/94d79a00458afeb21f4dd61d6636348d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/040570670f715a1564b7a3e81ac34190/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/e433da4e75ad12ea140bfe5329317d46/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/15bdcb8bd7b5d6080ac3bf805674b3b4/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/baf99983bc856e09b967fffd7a222c3d/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/8ead7f5d09eff413313030e9f1811595/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/5bfdddf00fbe6b6719b8465d392bc16b/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/bc71fe3bea1639bbb9d9fdae5cfae6c7/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/9963a21abd0eca592ee27c4b750686d8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/01fc4226edbf38a4aa7fbe2a227b7db6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leidyluna/.gradle/caches/transforms-3/696378ccf3d4d259cf78be526bb43528/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/d5f4734c43986060658b49bb8a1a05d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/ee216013dd27917822c3e0f84a3b5e6a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:5:5-26:19
+INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/a973062dbd7fccd98587b7874bb87f12/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/a973062dbd7fccd98587b7874bb87f12/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/542d61afdbd289dc27fed11108f990ed/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/542d61afdbd289dc27fed11108f990ed/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/01fc4226edbf38a4aa7fbe2a227b7db6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/01fc4226edbf38a4aa7fbe2a227b7db6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/d5f4734c43986060658b49bb8a1a05d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/d5f4734c43986060658b49bb8a1a05d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:13:9-49
+	android:dataExtractionRules
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.juandiegogarcia.captaingame.MainActivity
+ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:19:13-53
+	android:name
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/87adc37d0e5aae857f30c59ee1998f6b/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/87adc37d0e5aae857f30c59ee1998f6b/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/3ae5b70c70f3415980c86cb41840030b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/3ae5b70c70f3415980c86cb41840030b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/6d393060e190051a7a1f55ceec8d6311/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/6d393060e190051a7a1f55ceec8d6311/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/bfb4402bf17bd0e4925ec2ff70d405f5/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/bfb4402bf17bd0e4925ec2ff70d405f5/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/1c4d565ee8a4cb8074a11f1b5e046754/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/1c4d565ee8a4cb8074a11f1b5e046754/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/e833352a3886744c54b682bb2ac22a94/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/e833352a3886744c54b682bb2ac22a94/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/7b3fcf7a63f3bb2cc9e9e8fe9c227876/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/7b3fcf7a63f3bb2cc9e9e8fe9c227876/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/593debcae87c2c4910e3efa5ee0d4a85/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/593debcae87c2c4910e3efa5ee0d4a85/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/5993791e2fc99033b9c6773e306dbdc0/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/5993791e2fc99033b9c6773e306dbdc0/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/32934c2aa185de2b17b0d246c37312b3/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/32934c2aa185de2b17b0d246c37312b3/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/c45ccb56e91f5d1a0d136134630b6e52/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/c45ccb56e91f5d1a0d136134630b6e52/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/2fdf8eaeaf872dd28f18b61efb56e600/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/2fdf8eaeaf872dd28f18b61efb56e600/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/c9f8104e2ebbb7c740121f1c5dc86fd2/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/c9f8104e2ebbb7c740121f1c5dc86fd2/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/10ecf4bc388f9125c6f472cf1e4fac00/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/10ecf4bc388f9125c6f472cf1e4fac00/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/a973062dbd7fccd98587b7874bb87f12/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/a973062dbd7fccd98587b7874bb87f12/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/146d9dea652271789a9a772ff8d474bb/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/146d9dea652271789a9a772ff8d474bb/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/cbfa8ea53a5621c3e83a2eeea29a5623/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/cbfa8ea53a5621c3e83a2eeea29a5623/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/542d61afdbd289dc27fed11108f990ed/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/542d61afdbd289dc27fed11108f990ed/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/85662acb1b2fb33d808f6e120ae7a7f4/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/85662acb1b2fb33d808f6e120ae7a7f4/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/63618925b3f7a1604e4f135f2d416212/transformed/activity-compose-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/63618925b3f7a1604e4f135f2d416212/transformed/activity-compose-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/02a073ac7d3f7fc23d613b262cffa77a/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/leidyluna/.gradle/caches/transforms-3/02a073ac7d3f7fc23d613b262cffa77a/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/c38203fbe0b852a8a84f005c5fb686f2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/c38203fbe0b852a8a84f005c5fb686f2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/1c5a0af74cc2545b0078c4f19f7aaf2b/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/1c5a0af74cc2545b0078c4f19f7aaf2b/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/efb0722d18fdfb8c8b04d6d20200aabb/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/efb0722d18fdfb8c8b04d6d20200aabb/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/leidyluna/.gradle/caches/transforms-3/ac47818248ba95eae888f24ff11f863d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/leidyluna/.gradle/caches/transforms-3/ac47818248ba95eae888f24ff11f863d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leidyluna/.gradle/caches/transforms-3/68f0c4edefd181cebf50010530391aa7/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/leidyluna/.gradle/caches/transforms-3/68f0c4edefd181cebf50010530391aa7/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/989eb8fb42518fbc048898a6111d4ee0/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/989eb8fb42518fbc048898a6111d4ee0/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/94d79a00458afeb21f4dd61d6636348d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/94d79a00458afeb21f4dd61d6636348d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/040570670f715a1564b7a3e81ac34190/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/040570670f715a1564b7a3e81ac34190/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/e433da4e75ad12ea140bfe5329317d46/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/e433da4e75ad12ea140bfe5329317d46/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/15bdcb8bd7b5d6080ac3bf805674b3b4/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/15bdcb8bd7b5d6080ac3bf805674b3b4/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/baf99983bc856e09b967fffd7a222c3d/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/baf99983bc856e09b967fffd7a222c3d/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/8ead7f5d09eff413313030e9f1811595/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/8ead7f5d09eff413313030e9f1811595/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/5bfdddf00fbe6b6719b8465d392bc16b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/5bfdddf00fbe6b6719b8465d392bc16b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/bc71fe3bea1639bbb9d9fdae5cfae6c7/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/bc71fe3bea1639bbb9d9fdae5cfae6c7/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/9963a21abd0eca592ee27c4b750686d8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/9963a21abd0eca592ee27c4b750686d8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/01fc4226edbf38a4aa7fbe2a227b7db6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/01fc4226edbf38a4aa7fbe2a227b7db6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leidyluna/.gradle/caches/transforms-3/696378ccf3d4d259cf78be526bb43528/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/leidyluna/.gradle/caches/transforms-3/696378ccf3d4d259cf78be526bb43528/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/d5f4734c43986060658b49bb8a1a05d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/d5f4734c43986060658b49bb8a1a05d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/ee216013dd27917822c3e0f84a3b5e6a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leidyluna/.gradle/caches/transforms-3/ee216013dd27917822c3e0f84a3b5e6a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leidyluna/Documents/GitHub/kotlin/CaptainGame/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/a973062dbd7fccd98587b7874bb87f12/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/a973062dbd7fccd98587b7874bb87f12/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/a973062dbd7fccd98587b7874bb87f12/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/542d61afdbd289dc27fed11108f990ed/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/542d61afdbd289dc27fed11108f990ed/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] /Users/leidyluna/.gradle/caches/transforms-3/542d61afdbd289dc27fed11108f990ed/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/d5f4734c43986060658b49bb8a1a05d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leidyluna/.gradle/caches/transforms-3/d5f4734c43986060658b49bb8a1a05d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/leidyluna/.gradle/caches/transforms-3/b73e4e42339948091786ed2ff546319b/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/leidyluna/.gradle/caches/transforms-3/652e8616331130a5d3fc8daf6a71c4c3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.juandiegogarcia.captaingame.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.juandiegogarcia.captaingame.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/leidyluna/.gradle/caches/transforms-3/26e34ac1722c88bc395dc3850744c168/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/leidyluna/.gradle/caches/transforms-3/506cffff1b69b3999bb075c535fb05c5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
