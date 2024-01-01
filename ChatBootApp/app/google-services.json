@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17379484075",
+    "project_id": "chatbootapp-1a83f",
+    "storage_bucket": "chatbootapp-1a83f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17379484075:android:7db118f28eeb63870cb2ee",
+        "android_client_info": {
+          "package_name": "com.juandiegogarcia.chatbootapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6qNl21m_s8X2MALrCmufRuwq6UxXlrbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
