@@ -1,7 +1,7 @@
 package com.juandiegogarcia.kotlinbasics
 
 fun main(){
-    var myAge : Int
+    /*var myAge : Int
     val floatNumber = 23.3F
     val doubleNumber = 2304.0
     var age: UShort = 35u
@@ -21,6 +21,17 @@ fun main(){
     while (count < 3){
         println("Count is $count")
         count++
+    }*/
+
+    var numbers = arrayListOf(1.0, 2.0, 3.0, 4.0, 5.0)
+    var sum = 0.0
+    var average = 0.0
+    for (number in numbers){
+        sum += number
     }
+    average = sum / numbers.size
+
+    println("Avarage is " + average)
+
 
 }

@@ -49,7 +49,6 @@ class UserRepository(private val auth: FirebaseAuth,
         }
     }
 
-
     suspend fun getCurrentUser(): Result<User> = try {
         val currentUser = auth.currentUser
         val userResult = getUserById(currentUser?.uid ?: "").firstOrNull()
